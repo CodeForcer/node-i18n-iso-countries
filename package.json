@@ -1,7 +1,7 @@
 {
-  "name": "i18n-iso-countries",
-  "version": "3.7.8",
-  "description": "i18n for ISO 3166-1 country codes",
+  "name": "@codeforcer/i18n-iso-countries-extended",
+  "version": "1.0.0",
+  "description": "i18n for ISO 3166-1 country codes, extended with new languages",
   "typings": "index.d.ts",
   "keywords": [
     "i18n",
@@ -65,8 +65,8 @@
     "zh"
   ],
   "author": {
-    "name": "Andreas Wittig",
-    "email": "me@andreaswittig.info"
+    "name": "Nathan Worsley",
+    "email": "nathancworsley@gmail.com"
   },
   "contributors": [
     {
